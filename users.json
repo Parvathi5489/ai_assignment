@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2025-07-17",
+    "total_sales": 12000.5,
+    "visitors": 4500,
+    "conversion_rate": 3.4,
+    "top_product": "T-shirt"
+  },
+  {
+    "date": "2025-07-18",
+    "total_sales": 13500.75,
+    "visitors": 4900,
+    "conversion_rate": 3.6,
+    "top_product": "Cap"
+  }
+]
